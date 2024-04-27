@@ -1,0 +1,11 @@
+.table-img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+}
+
+th,
+td {
+    text-align: start !important;
+    vertical-align: middle !important;
+}
