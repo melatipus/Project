@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="d-flex align-items-center justify-content-between mb-4">
-  <h3>Tambah Produk</h3>
+  <h3>Tambah PRODUK</h3>
 </div>
 
 <div class="card">
